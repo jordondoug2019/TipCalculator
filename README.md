@@ -1,4 +1,4 @@
 # TipCalculator
 JavaScript practice 
 
-Create a tip calculator that will 
+Create a calculator that will calculate how much a person should tip. 
