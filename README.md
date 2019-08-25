@@ -1,0 +1,2 @@
+# TipCalculator
+JavaScript practice 
